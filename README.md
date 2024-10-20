@@ -8,7 +8,7 @@
 ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 </div>
 
-Systems Engineering student at UNFV. Dedicated to sharing and learning knowledge in cybersecurity and technology. I love to unravel the mysteries of the digital world, my crime is curiosity, something they would never forgive me. 🔐
+Systems Engineering student at UNFV. Dedicated to sharing and learning knowledge in cybersecurity and technology. I love to unravel the mysteries of the digital world, my crime is curiosity, something they will never forgive me. 🔐
 
 ### Skills
 
