@@ -1,6 +1,8 @@
 <h1 align="center">Hello, I'm Gonzalo 👋</h1>
 
-<div align=center><img align="center" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2xzNW52cm1qbzk2d3Y5cDJoNTNlZ2l0emRkcnM0Z3luOWw5b2tueiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cLxGtujriMD1kPzwt1/giphy.gif" width="180"/>
+<!-- <div align=center><img align="center" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2xzNW52cm1qbzk2d3Y5cDJoNTNlZ2l0emRkcnM0Z3luOWw5b2tueiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cLxGtujriMD1kPzwt1/giphy.gif" width="180"/></div> -->
+
+<div align=center><img src="https://private-user-images.githubusercontent.com/44886585/379514170-2e60e23f-67da-4fef-8fca-b9d9bd6ff84b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mjk3MzUwMDksIm5iZiI6MTcyOTczNDcwOSwicGF0aCI6Ii80NDg4NjU4NS8zNzk1MTQxNzAtMmU2MGUyM2YtNjdkYS00ZmVmLThmY2EtYjlkOWJkNmZmODRiLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMjQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDI0VDAxNTE0OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTAwYmYyYmY1NjdhZmE4YjBkYzg5NGU0MTQ4MTk1ZWExN2JkYzZmOTUxZWZiZjc1YzE4MGU0MGFmMDQ5ODhkYmQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.dAcqIOJ4Mx8iC99hOhjnDnoWJ2ajSZVup86YaQu6X_s"/>
 <p></p>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gonzaloat)
@@ -23,3 +25,4 @@ Systems Engineering student at UNFV. Dedicated to sharing and learning knowledge
 
 <!--
 **GonzaloAT/GonzaloAT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![gonzaloat](https://github.com/user-attachments/assets/2e60e23f-67da-4fef-8fca-b9d9bd6ff84b)]
